@@ -1,0 +1,1 @@
+# Static-hotel-page-css
